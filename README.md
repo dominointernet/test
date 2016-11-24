@@ -1,2 +1,2 @@
 # test
-Just a testing are to learn how to use GitHub.
+Just a testing area to learn how to use GitHub.
